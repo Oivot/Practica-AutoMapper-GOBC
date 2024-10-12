@@ -1,0 +1,40 @@
+C:\Users\Gael\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.csproj.AssemblyReference.cache
+C:\Users\Gael\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gael\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.AssemblyInfoInputs.cache
+C:\Users\Gael\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.AssemblyInfo.cs
+C:\Users\Gael\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.csproj.CoreCompileInputs.cache
+C:\Users\Gael\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gael\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.csproj.AssemblyReference.cache
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.AssemblyInfoInputs.cache
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.AssemblyInfo.cs
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.csproj.CoreCompileInputs.cache
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\bin\Debug\net6.0\appsettings.json
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\bin\Debug\net6.0\AutoMapperGOBC.exe
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\bin\Debug\net6.0\AutoMapperGOBC.deps.json
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\bin\Debug\net6.0\AutoMapperGOBC.runtimeconfig.json
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\bin\Debug\net6.0\AutoMapperGOBC.dll
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\bin\Debug\net6.0\AutoMapperGOBC.pdb
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\staticwebassets\msbuild.AutoMapperGOBC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\staticwebassets\msbuild.build.AutoMapperGOBC.props
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutoMapperGOBC.props
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutoMapperGOBC.props
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\scopedcss\bundle\AutoMapperGOBC.styles.css
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\AutoMapp.FA09C462.Up2Date
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.dll
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\refint\AutoMapperGOBC.dll
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.pdb
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\AutoMapperGOBC.genruntimeconfig.cache
+C:\Users\Gael\Desktop\Testeo de Software\AutoMapperGOBC\AutoMapper\obj\Debug\net6.0\ref\AutoMapperGOBC.dll
